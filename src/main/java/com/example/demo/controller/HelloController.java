@@ -1,6 +1,5 @@
 package com.example.demo.controller;
 
-import static org.mockito.Mockito.RETURNS_DEEP_STUBS;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
